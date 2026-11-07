@@ -1,5 +1,5 @@
 /* נאדין גברין + אור סלמן  */
-// Assigment 5 : 
+// Assigment 6 : 
 // Reads 3 text files and writes their lines into a new file in rounds:
 // 1 line from each file, then 2 lines from each, then 3, and so on.
 // If a file runs out of lines, the others continue.
